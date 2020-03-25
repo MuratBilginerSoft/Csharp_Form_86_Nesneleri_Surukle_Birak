@@ -1,0 +1,9 @@
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\bin\Debug\Sürükle Bırak.exe.config
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\bin\Debug\Sürükle Bırak.exe
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\bin\Debug\Sürükle Bırak.pdb
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle_Bırak.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle_Bırak.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.exe
+C:\Users\murat\Desktop\ \6 C# 2013\Sürükle Bırak\Sürükle Bırak\obj\Debug\Sürükle Bırak.pdb
